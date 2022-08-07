@@ -29,32 +29,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+994 44 648 92 72'] //ur owner number
-global.ownername = "😎Ａ.ＢＡＲＡＦＩＡ❯❯" //ur owner name
+global.vcardowner = ['+263 787 417 466'] //ur owner number
+global.ownername = "😎keenkedira❯❯" //ur owner name
 global.ytname = "" //ur yt chanel name
 global.socialm = "GitHub: prabhasha2006" //ur github or insta name
-global.location = "Maroc, Tamezmout, Zagora" //ur location
+global.location = "Zimbabwe, Bulawayo, Mpolihood" //ur location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/x7qYTrq/20220605-103944.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/wy5PbRf/IMG-20220805-WA0003.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 
 global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
-global.owner = ['+994 44 648 92 72']
-global.ownertag = '+994 44 648 92 72' //ur tag number
-global.botname = '𝙍𝙀𝘿╺ ＡＢＤＯＬＬＡＨ - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+263 787 417 466']
+global.ownertag = '+263 787 417 466' //ur tag number
+global.botname = '𝙍𝙀𝘿╺ KTG - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ ＡＢＤＯ" // sticker author
+global.author = "𝙍𝙀𝘿╺ KTG" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-MD ]' //In list menu
 
-global.button = '☰ INSTAGRAM ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://instagram.com/abdellah_barafia?igshid=YmMyMTA2M2Y=' //Change Your Button's URL
+global.button = '☰ WHATSAPP☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://wa.me/263787417466' //Change Your Button's URL
 
 //damtabase
-global.premium = ['+994 44 648 92 72'] //ur premium numbers
+global.premium = ['+263 787 417 466'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
